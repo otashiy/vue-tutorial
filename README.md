@@ -1,3 +1,3 @@
-# Men Vue frameworkini o'rganish uchun,shu loyihani mustaqil qilib ko'rayabman!
+# I'm doing this project on my own to learn the Vue framework!
 
 ## Otabek Qo'ldoshev
